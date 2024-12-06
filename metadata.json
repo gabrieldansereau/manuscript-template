@@ -2,36 +2,45 @@
     "title": "Template to prepare preprints and manuscripts using markdown and github actions",
     "authors": [
         {
+            "familyname": "Dansereau",
+            "givennames": "Gabriel",
+            "email": "gabriel.dansereau@umontreal.ca",
+            "orcid": "0000-0002-2212-3584",
             "affiliations": [
                 "Université de Montréal",
-                "Québec Centre for Biodiversity Sciences"
+                "Québec Centre for Biodiversity Science"
             ],
+            "status": [
+                "corresponding"
+            ]
+        },
+        {
+            "familyname": "Took",
+            "givennames": "Peregrin",
+            "email": "pippin@took.shire",
+            "affiliations": [
+                "Inn of the Prancing Pony",
+                "Fellowship of the Ring"
+            ]
+        },
+        {
+            "familyname": "Brandybuck",
+            "givennames": "Merriadoc",
+            "email": "merry@fellowship.ring",
+            "affiliations": [
+                "Green Dragon Inn",
+                "Fellowship of the Ring"
+            ]
+        },
+        {
             "familyname": "Poisot",
             "givennames": "Timothée",
             "email": "timothee.poisot@umontreal.ca",
             "orcid": "0000-0002-0735-5184",
-            "status": [
-                "corresponding",
-                "equal"
-            ]
-        },
-        {
             "affiliations": [
-                "Inn of the Prancing Pony",
-                "Fellowship of the Ring"
+                "Université de Montréal",
+                "Québec Centre for Biodiversity Science"
             ],
-            "familyname": "Took",
-            "givennames": "Peregrin",
-            "email": "pippin@took.shire"
-        },
-        {
-            "affiliations": [
-                "Green Dragon Inn",
-                "Fellowship of the Ring"
-            ],
-            "familyname": "Brandybuck",
-            "givennames": "Merriadoc",
-            "email": "merry@fellowship.ring",
             "status": [
                 "equal"
             ]
